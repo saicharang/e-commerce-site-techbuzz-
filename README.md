@@ -1,2 +1,3 @@
 # e-commerce-site-techbuzz-
-e-commerce for only tech
+e-commerce site especially for technical goods
+
